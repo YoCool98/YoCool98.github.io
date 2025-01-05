@@ -1,0 +1,120 @@
+Uri: https://cdn.twocms.com/sites/cherax/assets/704d2e70-ca2f-401d-9825-ffc04c13d821/cherax_branding.zip
+File Name: C:\Downloaded Web Sites\cherax.menu\sites\cherax\assets\704d2e70-ca2f-401d-9825-ffc04c13d821\cherax_branding.zip
+Content Type: application/zip
+
+Uri: https://cdn.twocms.com/sites/cherax/assets/e722b228-b85d-4e09-b051-a6bbf5d6ba1d/logo_outline_with_text.png
+File Name: C:\Downloaded Web Sites\cherax.menu\sites\cherax\assets\e722b228-b85d-4e09-b051-a6bbf5d6ba1d\logo_outline_with_text.png
+Content Type: image/png
+
+Uri: https://cdn.twocms.com/sites/cherax/main.js?v=zOhMrqIFvV
+File Name: C:\Downloaded Web Sites\cherax.menu\sites\cherax\main.js
+Content Type: application/javascript
+
+Uri: https://cdn.twocms.com/sites/cherax/tailwind.css?v=zOhMrqIFvV
+File Name: C:\Downloaded Web Sites\cherax.menu\sites\cherax\tailwind.css
+Content Type: text/css
+
+Uri: https://cherax.menu/
+File Name: C:\Downloaded Web Sites\cherax.menu\index.htm
+Content Type: text/html
+
+Uri: https://cherax.menu/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://cherax.menu/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://cherax.menu/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://cherax.menu/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\cherax.menu\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://cherax.menu/policy
+File Name: C:\Downloaded Web Sites\cherax.menu\policy.html
+Content Type: text/html
+
+Uri: https://cherax.menu/purchase
+File Name: C:\Downloaded Web Sites\cherax.menu\purchase.html
+Content Type: text/html
+
+Uri: https://cherax.menu/reselling
+File Name: C:\Downloaded Web Sites\cherax.menu\reselling.html
+Content Type: text/html
+
+Uri: https://fonts.bunny.net/css?family=figtree:400,600&display=swap
+File Name: C:\Downloaded Web Sites\cherax.menu\css
+Content Type: text/css
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-600-normal.woff
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-600-normal.woff2
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-600-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-ext-600-normal.woff
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-ext-600-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/figtree/files/figtree-latin-ext-600-normal.woff2
+File Name: C:\Downloaded Web Sites\cherax.menu\figtree\files\figtree-latin-ext-600-normal.woff2
+Content Type: font/woff2
+
